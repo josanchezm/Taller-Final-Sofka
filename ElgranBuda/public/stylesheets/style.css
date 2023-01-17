@@ -1,0 +1,198 @@
+/* .bodyindex {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background:black
+
+}
+
+.formstyle{
+
+  width: 450px;
+  margin: auto;
+  background-color: green;
+  box-sizing: border-box;
+  margin-top: 20px;
+  padding: 35px 30px;
+  border-radius: 7px;
+}
+
+.imagen{
+
+   height: 150px;
+   font-weight: 100;
+   padding-left: 80%;
+   
+  
+
+}
+
+
+input{
+  width: 60%;
+  margin-bottom: 40px;
+  padding: 15px;
+}
+
+a{
+
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 16px 32px; 
+  padding: 16px 24px; 
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 8px;
+  width: 120px; 
+  width: 140px; 
+  text-align:center;
+
+
+}
+
+button{
+
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 16px 24px; 
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 8px;
+  width: 140px; 
+  text-align:center;
+  
+
+
+}
+
+.cuadro{
+  background-color: gold;
+  border-radius: 20%;
+
+}
+.h1signup{
+
+background-color: white;
+
+}
+
+
+.btnstart{
+
+  position: absolute;
+  bottom: 400px;
+  right: 50px;
+  background-color:#8F0005;
+  border-radius:30%;
+  color:white;
+  text-transform:uppercase;
+  padding:1em 1.5em;
+  padding-top: 2%;
+  padding-right: 10%;
+  padding-left: 5%;
+  text-align: center;
+  font-size: large
+
+}
+
+.cargando{
+
+  position: absolute;
+  bottom: 500px;
+  right: 70px;
+  border-radius:30%;
+  color:yellow;
+  text-transform:uppercase;
+  padding:1em 1.5em;
+  padding-top: 2%;
+  padding-right: 10%;
+  padding-left: 5%;
+  text-align: center;
+  font-size: xx-large
+
+
+
+
+}
+
+
+
+.numerossalientes{
+  
+font-size: small;
+color: gold;
+background-color: green;
+
+}
+
+
+.historial{
+
+text-align: center;
+
+
+}
+
+.tablabingo{
+
+  background-color: gold;
+
+
+
+
+}
+
+.balota{
+
+font-size: xx-large;
+background-color: red;
+border-radius: 20%;
+color: white;
+border-color: black;
+
+position: absolute;
+right: 70px;
+
+
+
+}
+
+.obtenercarton{
+
+padding-left: 10%;
+padding-right: 20%;
+
+}
+.btnactualizarusuarios{
+
+
+
+  position: fixed;
+  right: 40px;
+
+
+}
+
+.btngane{
+
+  
+position: relative;
+left:920px;
+
+}
+
+
+.usuariosjugando{
+
+
+font-size: x-large;
+color: purple;
+
+
+
+} */
